@@ -26,7 +26,7 @@ Finding the best way that the model train itself and predict
 
 ## Usage
 
-To install this project, you need to have Python3 and import necessary libraries like Pandas,matplotlib and pytorch 
+To install this project, you need to have Python3 and import necessary libraries like Pandas,matplotlib,numpy,sklearn and pytorch 
  
 The dataset wine.csv is attached to the project
 
