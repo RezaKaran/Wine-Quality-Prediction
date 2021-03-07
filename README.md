@@ -32,6 +32,7 @@ The dataset wine.csv is attached to the project
 
 ## Result
 The best result is:
+
 Learning Rate: 0.001  Epoch: 550   Train Loss: 1.055   Train Accuracy: 55.25    Test Loss: 1.092   Test Accuracy: 52.31
 
 
